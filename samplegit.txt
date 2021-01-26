@@ -1,4 +1,4 @@
-Install git
+Install git: Download latest version of git and install
 Learn git
 Use git
 commit codes
